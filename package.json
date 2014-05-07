@@ -1,0 +1,23 @@
+{
+  "name": "serverFinal",
+  "version": "0.0.0",
+  "description": "Final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cordovas/serverFinal.git"
+  },
+  "author": "Steve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cordovas/serverFinal/issues"
+  },
+  "homepage": "https://github.com/cordovas/serverFinal",
+  "dependencies": {
+    "express": "^4.1.1",
+    "logfmt": "^1.1.2"
+  }
+}
